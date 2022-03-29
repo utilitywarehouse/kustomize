@@ -9,7 +9,7 @@ require (
 	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c
 	github.com/elazarl/goproxy v0.0.0-20191011121108-aa519ddbe484
 	github.com/evanphx/json-patch v4.5.0+incompatible
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9
 	github.com/golang/protobuf v1.2.0
 	github.com/google/btree v1.0.0 // indirect
