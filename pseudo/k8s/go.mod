@@ -28,8 +28,8 @@ require (
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/spf13/pflag v0.0.0-20170130214245-9ff6c6923cff
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
-	golang.org/x/net v0.0.0-20190620200207-3b0461eec859
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	gopkg.in/inf.v0 v0.9.1
